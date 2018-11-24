@@ -50,3 +50,25 @@
 	padding:5px ;
 }
 /* end copy */
+
+.btn-primary
+{
+    background: lightseagreen ;
+    border: lightseagreen ;
+}
+
+.btn-primary:hover
+{
+    background: lightseagreen ;
+    border: lightseagreen ;
+}
+
+.login-box-body .form-control-feedback, .register-box-body .form-control-feedback
+{
+    color: lightseagreen ;
+}
+
+a 
+{
+    color: lightseagreen ;
+}

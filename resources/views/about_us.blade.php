@@ -2,10 +2,143 @@
 
 @section('content')
 
-<div style="background: #ccc;margin-top:60px;height:474px;">
-    <h1 style="margin:0;text-align: center">من نحن !</h1>
-    <h3 style="margin:0;text-align:right;">هنا هنحط الكونتينت وخلى بالك لازم اللى هنحطه ينزل شوية علشان الناف بار 
-    <br>position: fixed</h3>
-</div>
+
+
+<section class="container" style="margin-top:50px">
+
+    <div class="page-header">
+        <h1 style="font-size:25px;color:lightseagreen; text-shadow: 0 0 1px black">Anonymous Team<br></h1>
+    </div>
+    
+    <div class="row active-with-click">
+        
+        <!-- mohamed gaber ali -->
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Blue">
+                <h2>
+                    <span>Mohamed Gaber Ali</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Full Stack Web Developer
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="{{ url('/design/images/moh.JPG') }}">
+                    </div>
+                    <div class="mc-description">
+                            Bachelor degree<br>Faculty of Computer and Information<br>Assiut University
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a target="_blank" href="https://github.com/M7mad-Gaber" class="fa fa-fw fa-github"></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mohamed-gaber-ali-390167125/" class="fa fa-fw fa-linkedin"></a>
+                </div>
+            </article>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Pink">
+                <h2>
+                    <span>Mohamed Gaber Ali</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Full Stack Web Developer
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="{{ url('/design/images/moh.JPG') }}">
+                    </div>
+                    <div class="mc-description">
+                            Bachelor degree<br>Faculty of Computer and Information<br>Assiut University
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a target="_blank" href="https://github.com/M7mad-Gaber" class="fa fa-fw fa-github"></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mohamed-gaber-ali-390167125/" class="fa fa-fw fa-linkedin"></a>
+                </div>
+            </article>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Teal">
+                <h2>
+                    <span>Mohamed Gaber Ali</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Full Stack Web Developer
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="{{ url('/design/images/moh.JPG') }}">
+                    </div>
+                    <div class="mc-description">
+                            Bachelor degree<br>Faculty of Computer and Information<br>Assiut University
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a target="_blank" href="https://github.com/M7mad-Gaber" class="fa fa-fw fa-github"></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mohamed-gaber-ali-390167125/" class="fa fa-fw fa-linkedin"></a>
+                </div>
+            </article>
+        </div>
+
+        <div class="col-md-4 col-sm-6 col-xs-12">
+            <article class="material-card Amber">
+                <h2>
+                    <span>Mohamed Gaber Ali</span>
+                    <strong>
+                        <i class="fa fa-fw fa-star"></i>
+                        Full Stack Web Developer
+                    </strong>
+                </h2>
+                <div class="mc-content">
+                    <div class="img-container">
+                        <img class="img-responsive" src="{{ url('/design/images/moh.JPG') }}">
+                    </div>
+                    <div class="mc-description">
+                            Bachelor degree<br>Faculty of Computer and Information<br>Assiut University
+                    </div>
+                </div>
+                <a class="mc-btn-action">
+                    <i class="fa fa-bars"></i>
+                </a>
+                <div class="mc-footer">
+                    <h4>
+                        Social
+                    </h4>
+                    <a target="_blank" href="https://github.com/M7mad-Gaber" class="fa fa-fw fa-github"></a>
+                    <a target="_blank" href="https://www.linkedin.com/in/mohamed-gaber-ali-390167125/" class="fa fa-fw fa-linkedin"></a>
+                </div>
+            </article>
+        </div>
+
+        
+
+        
+        
+    </div>
+
+</section>
 
 @endsection

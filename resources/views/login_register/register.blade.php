@@ -15,16 +15,18 @@
   <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
   <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
   <![endif]-->
+
+  <link rel="stylesheet" type="text/css" href="{{ url("/design/colo/css/mystyle.css") }}">
   
 </head>
 <body class="hold-transition login-page">
 <div class="login-box">
   <div class="login-logo">
-    <a href="../../index2.html"><b>TBAR</b>3</a>
+    <a href="#" style="text-shadow: 2px 2px 8px lightseagreen"><b>TBAR</b>3</a>
   </div>
   <!-- /.login-logo -->
   <div class="login-box-body">
-    <p class="login-box-msg">إنشاء حساب</p>
+    <p class="login-box-msg" style="color:lightseagreen ;">إنشاء حساب</p>
 
     <form action="../../index2.html" method="post">
       <div class="form-group has-feedback">

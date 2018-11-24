@@ -8,12 +8,17 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="description" content="website help charities">
 	<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="stylesheet" type="text/css" href="{{ url("/design/card/font.css") }}">
+	<link rel="stylesheet" type="text/css" href="{{ url("/design/card/bootstrap.css") }}">
+	<link rel="stylesheet" type="text/css" href="{{ url("/design/card/card.css") }}">
 	<link rel="stylesheet" type="text/css" href="{{ url("/design/colo/css/bootstrap4/bootstrap.min.css") }}">
 	<link href="{{ url("/design/colo/plugins/font-awesome-4.7.0/css/font-awesome.min.css") }}" rel="stylesheet" type="text/css">
 	<link rel="stylesheet" type="text/css" href="{{ url("/design/colo/css/main_styles.css") }}">
 	<link rel="stylesheet" type="text/css" href="{{ url("/design/colo/css/responsive.css") }}">
 	<link rel="stylesheet" type="text/css" href="{{ url("/design/colo/css/mystyle.css") }}">
+
 	<script src="{{ url("/design/colo/js/jquery-3.3.1.min.js") }}"></script>
+
 </head>
 
 <body>

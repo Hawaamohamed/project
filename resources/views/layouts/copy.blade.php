@@ -14,6 +14,9 @@
 <script src="{{ url("/design/colo/plugins/OwlCarousel2-2.2.1/owl.carousel.js") }}"></script>
 <script src="{{ url("/design/colo/plugins/easing/easing.js") }}"></script>
 <script src="{{ url("/design/colo/js/custom.js") }}"></script>
+<script src="{{ url("/design/card/jquery.js") }}"></script>
+<script src="{{ url("/design/card/card.js") }}"></script>
+
 </body>
 
 </html>
